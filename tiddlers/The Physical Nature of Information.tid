@@ -1,0 +1,41 @@
+created: 20201004070813646
+modified: 20201004071455789
+tags: information-theory physics
+title: The Physical Nature of Information
+type: text/vnd.tiddlywiki
+
+! ''Abstract: Information is fundamental to physical representation, which means it must also be fundamental to restrictions, and the im/possible, with regards to the laws of physics.
+     [[Quantum Mechanics]] entertains the notion of [[Superposition]], with regards to states (of systems) that bear information, and the real utility of this must be understood. Parallelism in [[Quantum Computing]] is one potential application, and will be critiqued in this paper.
+     Computation requires the dissipation of energy, as does measurement, and the communication link.''
+
+
+
+
+
+
+!! 1. Information is physical
+It would be incorrect to think of information, as an abstract and disembodied substance: there will always be some physical representational aspect to information. Information must be represented by something: a physical substrate is the implication, but more greatly, it can not be represented by something that is above the laws of nature.
+
+We see reference to this in [[Leo Szilard]]'s contemplation of [[Maxwell's Daemon]], however this did not end the debate about the nature of information, and it's physicality. [[Roger Penrose]], in a rather Platonist manner, upholds that "devices can yield only approximations to a structure that has a deep and 'computer-independent' existence of its own.
+
+
+
+
+
+
+!! 2. Quantum Information
+ The first type of counting we became familiar with as a species was done on hands, with shells, and rocks. It was binary, leading us to indicate the existence of something as 'existent (1)', or 'non-existent (0). [QM]([[Quantum Mechanics]]), however, allows for something to possess, or rather, be, in both states simultaneously.
+
+One situation that draws on this, regards [[Quantum Teleportation]]. Given two [entangled]([[Quantum Entanglement]]) [EPR]([[Einstein-Paul-Rosen]]) objects, where one is shipped to a transmitting end, the other two a receiving end, interaction between the object at the transmitting end, and the source object, whose state is being transmitted, generates a classical signal. This signal, interacts with the prepared object, resulting in a copy of the teleported, or transmitted state.
+
+The most likely application of this phenomena lies within the realm of [[Quantum Cryptography]], which is achievable in real systems, although not enough for it to be applicable in a widespread manner. It directly relies on [[The Indeterminacy Relation]] ([[Albert Einstein]]'s (in my opinion much more fitting) name for [[The Uncertainty Principle]]. 
+
+A stream or quantity of quantum information can not be examined by an eavesdropper, without altering it: examination is measurement, and eavesdroppers are observers.
+
+
+
+
+
+
+
+

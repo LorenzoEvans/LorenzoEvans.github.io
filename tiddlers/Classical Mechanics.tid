@@ -1,0 +1,57 @@
+created: 20201004064149328
+modified: 20201004071648718
+title: Classical Mechanics
+type: text/vnd.tiddlywiki
+
+! Classical Mechanics focuses on physical systems that are deterministic, and reversible.
+     
+!! By deterministic, what we mean is that there are a set of logical rules that allow you to derive the state of the future, given its current state.
+
+!! By reversible, we mean that given the state of the system at some point in the future we should be able to derive the state of the system at some point in the past.
+!! By system, we mean a collection of objects.
+ *//A system can be considered closed, if it is isolated from the effects of agents and events external to the system. Any system that is not closed, is open.//
+* Realistically speaking, there is no such thing as a truly closed system, only approximations.
+ Most systems possess chaos, or can be considered chaotic, because slight changes in initial conditions, drastically alter the evolution of the system. The property of chaos puts a limit on how far into the future we can reliably predict the evolution, or state of a system.
+
+* The [[Three Body Problem]] is a great example of this: if we increment the number of components in a gravitational, orbital system by one (1), we suddenly can't predict the evolution of any of the components of the system, meaning we can't predict the evolution of the system.
+
+We talk about the evolution of systems, in terms of states: the set of all possible states a system can be in is called the state-space. We also assume that the evolution of a system will take place in a smooth manner, without sudden jumps or interruptions, often summed up in the term continuous.
+
+We can treat time as discrete, usually represented by $$t$$, where the value of $$t$$ is indexed by the integers.
+When a world has a discrete evolution, or time interval, we can call it stroboscopic.
+When we deal with time, and how a system changes with respect to it, we are dealing with a [[Dynamical System]].
+
+ A Simple System:
+* A coin is a very simple system, with two possible states: $${H}\; {and}\; {T}$$.
+
+* The first and most simple dynamical law simply states that if nothing happens, the state of the system remains the same.
+** $$\small \text{Nothing happens until something moves.}$$ - [[Albert Einstein]]
+
+Going beyond this, we can say, in terms of a coin, the next state is the opposite of the current state:
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
